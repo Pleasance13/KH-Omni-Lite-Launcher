@@ -1,5 +1,8 @@
 # KINGDOM HEARTS Omni Lite Launcher - Guide (Windows Only)
 
+![image](https://github.com/user-attachments/assets/b913e5f4-2bf5-4029-b7fb-03d26ab307b1)
+
+
 This guide will walk you through setting up the KINGDOM HEARTS Omni Lite Launcher. The launcher allows you to launch Kingdom Hearts games via Heroic Games Launcher, using either an all-in-one launcher or simple command-line arguments and Steam shortcuts.
 
 ---
